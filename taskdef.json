@@ -79,6 +79,5 @@
         "operatingSystemFamily": "LINUX"
     },
     "registeredAt": "2024-02-05T15:14:26.208Z",
-    "registeredBy": "arn:aws:sts::398649269234:assumed-role/AWSReservedSSO_DeveloperAccessExt_bde6157efb34d2d9/yohei_morisaki",
-    "tags": []
+    "registeredBy": "arn:aws:sts::398649269234:assumed-role/AWSReservedSSO_DeveloperAccessExt_bde6157efb34d2d9/yohei_morisaki"
 }
